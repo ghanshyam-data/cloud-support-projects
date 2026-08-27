@@ -1,2 +1,22 @@
 # cloud-support-projects
 cloud support  fundamentals and hands on practice  covering cloud basics , troubleshooting ,and support workflow.
+# Cloud Support Projects
+
+Hands-on practice with AWS Cloud — covering EC2 instance management and billing basics.
+
+## About
+This repository documents my practical work with AWS Console, focused on 
+compute services and cost management fundamentals.
+
+## Work Done
+- Launched and configured EC2 instances via AWS Console
+- Practiced EC2 instance management commands
+- Explored AWS Billing dashboard — tracked usage and cost monitoring
+
+## Skills Covered
+- AWS EC2 (instance launch, configuration, management)
+- AWS Billing & Cost Management basics
+- Cloud console navigation and troubleshooting
+
+## Status
+Fresher — actively building hands-on experience with AWS Cloud Support.
