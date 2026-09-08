@@ -16,7 +16,16 @@ compute services and cost management fundamentals.
 ## Skills Covered
 - AWS EC2 (instance launch, configuration, management)
 - AWS Billing & Cost Management basics
-- Cloud console navigation and troubleshooting
+## Project 1: Personal Portfolio Website Deployment on AWS EC2
+
+Deployed a personal portfolio website on AWS EC2 using Apache (httpd), 
+configured Security Groups, and verified server functionality.
+
+*Tech:* AWS EC2, Linux, Apache, Security Groups
+
+
+
+![Website Preview](WhatsApp%20Image%202026-09-08%20at%203.33.37%20PM.jpeg)- Cloud console navigation and troubleshooting
 
 ## Status
 Fresher — actively building hands-on experience with AWS Cloud Support.
